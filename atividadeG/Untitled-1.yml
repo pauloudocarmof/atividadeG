@@ -1,0 +1,8 @@
+2. Leia uma letra, verifique se letra é "F" ou "M" e escreva F - Feminino, M - Masculino, Sexo Inválido.
+3. Leia uma letra e verifique se a letra digitada é vogal ou consoante.
+4. Leia 2 (duas) notas parciais de um aluno, calcule a média e escreva a mensagem:
+o "Aprovado", se a média alcançada for maior ou igual a sete;
+o "Reprovado", se a média for menor do que sete;
+o "Aprovado com Distinção", se a média for igual a dez.
+5. Leia o preço de três produtos e informe qual produto deve ser comprado, sabendo que a decisão é
+sempre pelo mais barato.
